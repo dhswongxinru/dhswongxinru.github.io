@@ -1,14 +1,9 @@
-h1{
-font-family:verdana;
-color:pink;
+body {
+    background-color: powderblue;
 }
-h2{
-font-family:verdana;
-color:pink;
+h1 {
+    color: blue;
 }
-p{
-font-family:verdana
-}
-body{
-background-image:url("http://s1.bwallpapers.com/wallpapers/2014/01/27/spring-flowers-background_122005421.jpeg");
+p {
+    color: red;
 }
