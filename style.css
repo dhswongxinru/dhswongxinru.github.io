@@ -1,12 +1,10 @@
 body {
     background-color: powderblue;
 }
-h1 {
-    color: blue;
+h1,h2 {
+    color: violet;
 }
-h2 {
-    color: blue;
-}
+
 p {
     color: black;
 }
